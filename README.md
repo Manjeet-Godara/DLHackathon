@@ -1,4 +1,4 @@
-# 🤖 MATLAB Troubleshooting Chatbot
+# MATLAB Troubleshooting Chatbot
 
 ## Secured 11th position 
 
@@ -10,7 +10,7 @@ This project aims to build a chatbot that helps users troubleshoot MATLAB-relate
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Streamlit
 - **Backend**: LangChain,Langgraph, Python, Flask
@@ -26,7 +26,7 @@ This project aims to build a chatbot that helps users troubleshoot MATLAB-relate
 
 ---
 
-## 🚀 Features
+## Features
 
 - Chat-based troubleshooting for MATLAB errors and syntax
 - Chat-based multi-turn troubleshooting with memory.
@@ -76,20 +76,20 @@ This project aims to build a chatbot that helps users troubleshoot MATLAB-relate
 └── visited.txt
 ```
 
-## 🧩 Frontend User Flow
+## Frontend User Flow
 
 ![Frontend User Flow 1](Frontend_UI.jpg)
 
 
 ---
 
-## 🔧 Backend Flow
+## Backend Flow
 
 ![Backend Flowchart](Backend.jpg)
 
 ---
 
-## ⚙️ Setup Instructions
+## ⚙Setup Instructions
 
 .env file example (in backend directory) - 
 
@@ -125,7 +125,7 @@ streamlit run frontend/app.py
 ## 📄 Example Queries
 [Examples queries](results/)
 
-## 👥 Team
+## Team
 
 Developed as part of **CS-671 Deep Learning Hackathon**.
 
